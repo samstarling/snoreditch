@@ -1,0 +1,5 @@
+body { margin: 0; height: 100%; font-family: 'Bowlby One SC', cursive; }
+html { height: 100%; }
+#map { height: 100%; width: 100%; }
+h1 { position: absolute; top: 0px; z-index: 100; margin: 25px 20px 20px 20px; float: left; background: #000; color: yellow; padding: 4px 13px 2px 13px; font-size: 50px; line-height: 1.2; -webkit-transform: rotate(-2deg); 
+-moz-transform: rotate(-2deg); font-weight: normal; }
